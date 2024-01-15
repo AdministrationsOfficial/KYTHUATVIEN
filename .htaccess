@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^About$ /#about [NE,R=301,L]
+RewriteRule ^Home$ /#home [NE,R=301,L]
